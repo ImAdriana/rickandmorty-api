@@ -7,3 +7,9 @@ Esta es una aplicación web que utiliza la API de Rick y Morty para mostrar info
 ## Requisitos
 
 - Cuenta en el servicio Rick and Morty API (no es necesario crear una cuenta, la API es pública)
+
+## Requisitos
+
+- Hecha un vistazo en:
+
+ https://rickandmorty-searcher.netlify.app
